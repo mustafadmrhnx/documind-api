@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+google-generativeai
+sqlalchemy
+alembic
+pypdf
+python-multipart
+asyncpg
